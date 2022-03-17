@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="160" height="160" xmlns="http://www.w3.org/2000/svg">
+	<image href="celldown.svg" />
+	<image href="mine.svg" />
+	<polygon points="15,30 35,30 155,150 135,150" fill="#ff0000" />
+	<polygon points="155,30 135,30 15,150 35,150" fill="#ff0000" />
+</svg>
