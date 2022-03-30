@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="120" height="170" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath id="arrowshape">
+			<polygon points="0,0 120,120 50,120 0,170" />
+		</clipPath>
+	</defs>
+	<polygon points="0,0 120,120 50,120 0,170" fill="#ffff00" stroke="#000000" stroke-width="14" clip-path="url(#arrowshape)" />
+</svg>
