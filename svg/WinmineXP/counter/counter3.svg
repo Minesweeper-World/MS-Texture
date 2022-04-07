@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="130" height="250" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="0" width="130" height="230" fill="#000000" /> <!-- background -->
+	<polygon points="15,10 115,10 85,40 45,40" fill="#ff0000" /> <!-- top -->
+	<polygon points="15,220 115,220 85,190 45,190" fill="#ff0000" /> <!-- bottom -->
+	<polygon points="10,15 10,115 40,85 40,45" fill="#400000" /> <!-- left top -->
+	<polygon points="10,115 10,215 40,185 40,145" fill="#400000" /> <!-- left bottom -->
+	<polygon points="120,15 120,115 90,85 90,45" fill="#ff0000" /> <!-- right top -->
+	<polygon points="120,115 120,215 90,185 90,145" fill="#ff0000" /> <!-- right bottom -->
+	<polygon points="20,115 35,100 95,100 110,115 95,130 35,130" fill="#ff0000" /> <!-- center -->
+</svg>
