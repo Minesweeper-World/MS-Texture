@@ -19,7 +19,7 @@ The minesweeper interface is divided into 4 parts: the cells, the yellow face, t
 Elements are miscellaneous images or basic components of other images in case you want to make your own mod. Replay cursors are in this folder.
 
 ## File types
-`svg` and `pdf` are supported.
+Vector graphics: `svg` and `pdf` are supported. Scale is 10x.
 
 ## Skins
 `WinmineXP` and `Arbiter` skins are supported.
