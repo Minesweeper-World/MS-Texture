@@ -22,4 +22,4 @@ Elements are miscellaneous images or basic components of other images in case yo
 `svg` and `pdf` are supported.
 
 ## Skins
-There is only one skin.
+`WinmineXP` and `Arbiter` skins are supported.
