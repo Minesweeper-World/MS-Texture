@@ -12,6 +12,7 @@ Elements are miscellaneous images or basic components of other images in case yo
 
 ## File types
 Vector graphics: `svg` and `pdf` are supported. Scale is 10x.
+
 Bitmap graphics: `png` is supported. Scale is 1x.
 
 ## Skins
