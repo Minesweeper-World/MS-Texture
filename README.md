@@ -17,3 +17,9 @@ Bitmap graphics: `png` is supported. Scale is 1x.
 
 ## Skins
 `WinmineXP` and `Arbiter` skins are supported.
+
+## Copyright issues
+
+### Chocolate Sweeper
+We have the permission from Nyahoon Games that allows us to use, modify and distribute part of the art works within Chocolate Sweeper. Check the [emails](https://github.com/Minesweeper-World/MS-Texture/blob/main/Copyright%20permission%20Nyahoon.pdf) for the exact claims.
+
