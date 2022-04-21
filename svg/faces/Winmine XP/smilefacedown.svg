@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="260" height="260" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="0" width="260" height="260" fill="#808080" /> <!-- shade -->
+	<polygon points="0,0 260,0 250,10 10,10 10,250 0,260" fill="#808080" />
+	<rect x="30" y="30" width="220" height="220" fill="#c0c0c0" /> <!-- background -->
+	<circle cx="135" cy="135" r="80" stroke-width="7" stroke="#000000" fill="#ffff00" /> <!-- face -->
+	<path d="M 95 150 Q 110 175, 135 175 T 175 150" fill="transparent" stroke="#000000" stroke-width="8" /> <!-- mouth -->
+	<circle cx="110" cy="110" r="11" fill="#000000" /> <!-- left eye -->
+	<circle cx="160" cy="110" r="11" fill="#000000" /> <!-- right eye -->
+</svg>
